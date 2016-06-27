@@ -2,6 +2,7 @@ name: DPR TRAINING
 favicon: null
 layout_spectrum: 0.028735657688230276
 typography_spectrum: 0.04705080040730536
+title: DPR TRAINING
 cta:
   domain: null
   bucket: null
